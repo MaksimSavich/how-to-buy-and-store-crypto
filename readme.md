@@ -51,6 +51,8 @@
 
 ### Currencies You Want to Trade
 
+[(Back to top)](#table-of-contents)
+
 ## Where to Buy
 
 [(Back to top)](#table-of-contents)
