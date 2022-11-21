@@ -1,6 +1,6 @@
 # Table of Content
 
-- [How to Buy Cryptocurrency](#How)
+- [How to Buy Cryptocurrency](#How-to-Buy-Cryptocurrency)
     - What to Look For in an Exchange
         - Good Exchange History/Reputation
         - Exchange Goals
@@ -28,7 +28,7 @@
         - Wallet With Hardware Key
         - Wallet Without Hardware Key   
 
-# How-to-Buy-Cryptocurrency
+# How to Buy Cryptocurrency
 # t
 # t
 # t
