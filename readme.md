@@ -2,7 +2,7 @@
 
 - [General Rules of Crypto](#General-Rule-of-Crypto)
 - [How to Buy Cryptocurrency](#How-to-Buy-Cryptocurrency)
-    - [What to Look For in an Exchange](##What-to-Look-For-in-an-Exchange)
+    - [What to Look For in an Exchange](#What-to-Look-For-in-an-Exchange)
         - [Good Exchange History/Reputation](###Good-Exchange-History/Reputation)
         - [Exchange Goals](###Exchange-Goals)
         - [Security of Finances](###Security-of-Finances)
