@@ -1,30 +1,38 @@
 # Table of Content
 
-1. How to Buy Cryptocurrency
-    1. What to Look For in an Exchange
-        1. Good Exchange History/Reputation
-        1. Exchange Goals
-        1. Security of Finances
-        1. Account Security
-        1. Currencies You Want to Trade
-    1. Where to Buy
-        1. Exchanges
-        1. Why These Exchanges
-        1. Why These Specific Exchanges
-    1. How to Create an Account
-        1. Properly Secure the Account
-        1. Deposit/Funding Method
-        1. KYC Verification
-1. Where to Read Cryptocurrency Data and Charts
-    1. Trading View
-    1. Coinmarket Cap
-    1. Crypto Rainbow
-1. How to Create a Secure Personal Wallet
-    1. Hardware Keys
-        1. What Is a Hardware Key
-        1. Purpose of a Hardware Key
-        1. Types of Hardware Keys
-    1. How and Where to Create Secure Wallets
-        1. Wallet With Hardware Key
-        1. Wallet Without Hardware Key
-    
+- [How to Buy Cryptocurrency](#How)
+    - What to Look For in an Exchange
+        - Good Exchange History/Reputation
+        - Exchange Goals
+        - Security of Finances
+        - Account Security
+        - Currencies You Want to Trade
+    - Where to Buy
+        - Exchanges
+        - Why These Exchanges
+        - Why These Specific Exchanges
+    - How to Create an Account
+        - Properly Secure the Account
+        - Deposit/Funding Method
+        - KYC Verification
+- Where to Read Cryptocurrency Data and Charts
+    - Trading View
+    - Coinmarket Cap
+    - Crypto Rainbow
+- How to Create a Secure Personal Wallet
+    - Hardware Keys
+        - What Is a Hardware Key
+        - Purpose of a Hardware Key
+        - Types of Hardware Keys
+    - How and Where to Create Secure Wallets
+        - Wallet With Hardware Key
+        - Wallet Without Hardware Key   
+
+# How-to-Buy-Cryptocurrency
+# t
+# t
+# t
+# t
+# t
+# t
+# How
