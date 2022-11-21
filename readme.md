@@ -20,7 +20,7 @@
     - [Trading View](Trading-View)
     - [Coinmarket Cap](Coinmarket-Cap)
     - [Crypto Rainbow](Crypto-Rainbow)
-- [How to Create a Securing Personal Wallet](How-to-Create-a-Secure-Personal-Wallet)
+- [How to Create a Secure a Personal Wallet](How-to-Create-a-Secure-Personal-Wallet)
     - [Hardware Keys](Hardware-Keys)
         - [What Is a Hardware Key]([What-Is-a-Hardware-Key)
         - [Purpose of a Hardware Key](Purpose-of-a-Hardware-Key)
@@ -80,7 +80,7 @@
 
 [(Back to top)](#table-of-contents)
 
-# How to Create a Securing Personal Wallet
+# How to Create a Secure a Personal Wallet
 
 ## Hardware Keys
 
