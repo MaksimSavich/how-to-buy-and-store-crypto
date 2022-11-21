@@ -35,8 +35,6 @@
 
 # How to Buy Cryptocurrency
 
-[(Back to top)](#table-of-contents)
-
 ## What to Look For in an Exchange
 
 ### Good Exchange History/Reputation
@@ -55,15 +53,13 @@
 
 ## Where to Buy
 
-[(Back to top)](#table-of-contents)
-
 ### Exchanges
 
 ### Why These Specific Exchanges
 
-## How to Create an Account
-
 [(Back to top)](#table-of-contents)
+
+## How to Create an Account
 
 ### Properly Securing the Account
 
@@ -71,9 +67,10 @@
 
 ### KYC Verification
 
+[(Back to top)](#table-of-contents)
+
 # Where to Read Cryptocurrency Data and Charts
 
-[(Back to top)](#table-of-contents)
 
 ## Trading View
 
@@ -81,9 +78,9 @@
 
 ## Crypto Rainbow
 
-# How to Create a Securing Personal Wallet
-
 [(Back to top)](#table-of-contents)
+
+# How to Create a Securing Personal Wallet
 
 ## Hardware Keys
 
@@ -93,9 +90,9 @@
 
 ### Types of Hardware Keys
 
-## How and Where to Create Secure Wallets
-
 [(Back to top)](#table-of-contents)
+
+## How and Where to Create Secure Wallets
 
 ### Wallet With Hardware Key
 
