@@ -1,4 +1,4 @@
-# Table of Content
+# Table of Contents
 
 - [How to Buy Cryptocurrency](#How-to-Buy-Cryptocurrency)
     - What to Look For in an Exchange
@@ -29,9 +29,3 @@
         - Wallet Without Hardware Key   
 
 # How to Buy Cryptocurrency
-# t
-# t
-# t
-# t
-# t
-# t
