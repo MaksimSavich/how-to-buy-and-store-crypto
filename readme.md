@@ -167,7 +167,7 @@ Some popular hardware keys are the [Ledger](https://shop.ledger.com/?r=a451624b7
 **Bitcoin**
 
 - Desktop
-    - [Electrum](https://electrum.org/#home) - 
+    - [Electrum](https://electrum.org/#home){:target="_blank"} - 
 - Mobile
     - [BlueWallet](https://bluewallet.io) - 
 
@@ -184,11 +184,13 @@ Some popular hardware keys are the [Ledger](https://shop.ledger.com/?r=a451624b7
 - Desktop
     - [Monero GUI](https://www.getmonero.org/downloads/) - 
 - Mobile
-    - [Cake Wallet](https://cakewallet.com) -
+    - <a href="https://cakewallet.com" target="_blank">Cake Wallet</a> - 
 
 **Other Wallets**
 
 When you are looking for a place to create a wallet wit a hardware key, look up open source wallets that support hardware keys. It is important that you use open source software because then you can audit the code and make sure the developers don't have malicious intent. Also, you will have to make sure the wallet is able to be used with your operating system.
+
+[(Back to top)](#table-of-contents)
 
 ### Wallet Without a Hardware Key
 
