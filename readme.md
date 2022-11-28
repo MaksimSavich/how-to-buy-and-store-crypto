@@ -1,6 +1,7 @@
 # Table of Contents
 
 - [General Rules of Crypto](#general-rules-of-crypto)
+    - [What to Avoid](#what-to-avoid)
 - [How to Buy Cryptocurrency](#how-to-buy-cryptocurrency)
     - [What to Look For in an Exchange](#what-to-look-for-in-an-exchange)
         - [Good Exchange Reputation](#good-exchange-reputation)
@@ -30,6 +31,8 @@
         - [Wallet Without a Hardware Key](#wallet-without-a-hardware-key)   
 
 # General Rules of Crypto
+
+## What to Avoid
 
 [(Back to top)](#table-of-contents)
 
@@ -160,6 +163,32 @@ Some popular hardware keys are the [Ledger](https://shop.ledger.com/?r=a451624b7
 ## How and Where to Create Secure Wallets
 
 ### Wallet With a Hardware Key
+
+**Bitcoin**
+
+- Desktop
+    - [Electrum](https://electrum.org/#home) - 
+- Mobile
+    - [BlueWallet](https://bluewallet.io) - 
+
+**Ethereum**
+
+- Desktop
+    - [MyEtherWallet](https://www.myetherwallet.com) - 
+    - [Etherwall](https://www.etherwall.com) - 
+- Mobile
+    - [MEW](https://www.mewwallet.com) -
+
+**Monero**
+
+- Desktop
+    - [Monero GUI](https://www.getmonero.org/downloads/) - 
+- Mobile
+    - [Cake Wallet](https://cakewallet.com) -
+
+**Other Wallets**
+
+When you are looking for a place to create a wallet wit a hardware key, look up open source wallets that support hardware keys. It is important that you use open source software because then you can audit the code and make sure the developers don't have malicious intent. Also, you will have to make sure the wallet is able to be used with your operating system.
 
 ### Wallet Without a Hardware Key
 
