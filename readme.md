@@ -14,7 +14,7 @@
         - [Why These Specific Exchanges](#Why-These-Specific-Exchanges)
     - [How to Create an Account](#How-to-Create-an-Account)
         - [Properly Secure the Account](#Properly-Secure-the-Account)
-        - [Deposit/Funding Methods](#Deposit/Funding-Method)
+        - [Deposit/Funding Methods](#Deposit-Funding-Method)
         - [KYC Verification](#KYC-Verification)
 - [Where to Read Cryptocurrency Data and Charts](#Where-to-Read-Cryptocurrency-Data-and-Charts)
     - [Trading View](#Trading-View)
