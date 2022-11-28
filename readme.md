@@ -167,7 +167,7 @@ Some popular hardware keys are the [Ledger](https://shop.ledger.com/?r=a451624b7
 **Bitcoin**
 
 - Desktop
-    - <a href="" targt="https://electrum.org/#home" >Electrum</a> - 
+    - <a href="" targt="https://electrum.org">Electrum</a>
 - Mobile
     - [BlueWallet](https://bluewallet.io) - 
 
