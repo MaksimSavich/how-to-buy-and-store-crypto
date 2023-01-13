@@ -29,8 +29,7 @@ IN DEVELOPMENT
     - [Hardware Keys](#hardware-keys)
         - [What Is a Hardware Key](#what-is-a-hardware-key)
     - [How and Where to Create Secure Wallets](#how-and-where-to-create-secure-wallets)
-        - [Wallet With a Hardware Key](#wallet-with-a-hardware-key)
-        - [Wallet Without a Hardware Key](#wallet-without-a-hardware-key)   
+        - [Wallets That Support Hardware Keys](#walets-that-support-hardware-keys)   
 
 # General Rules of Crypto
 
@@ -164,12 +163,12 @@ Some popular hardware keys are the [Ledger](https://shop.ledger.com/?r=a451624b7
 
 ## How and Where to Create Secure Wallets
 
-### Wallet With a Hardware Key
+### Wallets That Support Hardware Keys
 
 **Bitcoin**
 
 - Desktop
-    - <a href="https://electrum.org" targt="_blank">Electrum</a>
+    - [Electrum](https://electrum.org)
 - Mobile
     - [BlueWallet](https://bluewallet.io) - 
 
@@ -190,10 +189,9 @@ Some popular hardware keys are the [Ledger](https://shop.ledger.com/?r=a451624b7
 
 **Other Wallets**
 
-When you are looking for a place to create a wallet wit a hardware key, look up open source wallets that support hardware keys. It is important that you use open source software because then you can audit the code and make sure the developers don't have malicious intent. Also, you will have to make sure the wallet is able to be used with your operating system.
+When you are looking for a place to create a wallet wit a hardware key, look up open source wallets that support hardware keys. It is important that you use open source software because then you can audit the code and make sure the developers don't have malicious intent. Also, you will have to make sure the wallet is able to be used with your operating system. You should follow the same process when searching for wallets you don't plan to use hardware keys with.
 
 [(Back to top)](#table-of-contents)
 
-### Wallet Without a Hardware Key
 
 [(Back to top)](#table-of-contents)
